@@ -13,7 +13,7 @@ Right now I'm enjoying life, learning what I want to know like how to understand
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![LUA](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="50"> A little more about me...  
 
 ```javascript
 Config = {
