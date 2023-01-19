@@ -11,3 +11,16 @@ Right now I'm enjoying life, learning what I want to know like how to understand
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![LUA](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+Config = {
+    Social:{
+        Facebook : "facebook.com/galangindra.id",
+        Instagram : "instagram.com/galangindra.id",
+        Discord : "Jeson#0738"
+    }
+}
+```
