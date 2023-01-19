@@ -21,6 +21,9 @@ Config = {
         Facebook : "facebook.com/galangindra.id",
         Instagram : "instagram.com/galangindra.id",
         Discord : "Jeson#0738"
+    },
+    Project:{
+        Proxima Roleplay : "https://discord.gg/WRKtEFPqcn"
     }
 }
 ```
