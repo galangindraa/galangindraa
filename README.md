@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/1029771316519251990/1065494221508853822/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3.gif?raw=true" width="500" height="320" />
 
 ## Halo 👋 I'm Galang <img src="https://cdn.discordapp.com/attachments/1029771316519251990/1065493926557007902/f79d73_7460c0c7f2cb46a38dbc1b54f9d7783c_mv2.gif" width="50">
-Right now I'm enjoying life, learning what I want to know like how to understand women
+TRY TO BE GOOD
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
