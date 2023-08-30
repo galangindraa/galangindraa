@@ -20,10 +20,12 @@ Config = {
     Social:{
         Facebook : "facebook.com/galangindra.id",
         Instagram : "instagram.com/galangindra.id",
-        Discord : "Jeson#0738"
+        Discord : "galangindra"
     },
     Project:{
-        Proxima Roleplay : "https://discord.gg/WRKtEFPqcn"
+        Proxima-Roleplay : "https://discord.gg/WRKtEFPqcn",
+        OrangTua-Roleplay : "https://discord.gg/FKxJ4CAgPn"
+
     }
 }
 ```
