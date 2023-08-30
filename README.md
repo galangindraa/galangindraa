@@ -20,6 +20,7 @@ Config = {
     Social:{
         Facebook : "facebook.com/galangindra.id",
         Instagram : "instagram.com/galangindra.id",
+        Website : "galangindra.dev",
         Discord : "galangindra"
     },
     Project:{
